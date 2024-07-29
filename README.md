@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Cesar-tQA/Cesar-tQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :QA Jr: Sobre mí :
+Hola! mi nombre es Cesar Ocegueda, entusiasta de comenzar mi carrera profesional como QA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: Actualmente estoy en la parte media de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos en el ambito remoto.
 
-Here are some ideas to get you started:
+* :seedling: Estoy practicando con Python :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL, Android Studio y API Postman; me gusta mucho las herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* :heartbeat: Me entusiasma la opcion de automatizar ya que es algo completamente nuevo para mi, estoy aprendiendo la logica de programacion. :detective:
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-eduardo-ocegueda-l%C3%B3pez)
+
+* :e-mail: critical58@gmail.com
+
+
+---
+
+### :hammer_and_wrench: Herramientas :
+<div id="header" align="left">
+  
+ [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+ [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+
+</div>
+
+---
+
 -->
